@@ -17,7 +17,8 @@ Welcome to the **Courses Frontend** – a modern React app for managing courses 
 
 ## 🖥️ Screenshots
 
-![Courses Management Dashboard](https://github.com/user-attachments/assets/d97904fa-2f72-4ad5-90c4-752dba100d3d)
+![Course Management Dashboard](https://github.com/user-attachments/assets/1b638661-a393-4aad-a76a-453e530ad7e6)
+
 ![Course Instances Dashboard](https://github.com/user-attachments/assets/42a5170e-0289-437c-a9be-ba011f4e7888)
 
 
